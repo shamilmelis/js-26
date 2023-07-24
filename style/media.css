@@ -1,0 +1,18 @@
+@media (max-width: 1150px) {
+    .row .col {
+        width: 33.333%;
+    }
+}
+
+@media (max-width: 870px) {
+    .row .col {
+        width: 50%;
+    }
+}
+
+
+@media (max-width: 540px) {
+    .row .col {
+        width: 100%;
+    }
+}
